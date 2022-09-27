@@ -17,7 +17,6 @@ else
 	open -a imovie
 	open -a messages
 	open -a Music
-	open -a Users/dylantremmel/Downloads
 fi
 
 echo Type Stop when you're done or if you'd like to take a break
